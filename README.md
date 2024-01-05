@@ -1,2 +1,2 @@
 # stringSearch
-Enter a word then a couple more letters that are inside of the word, measures where the letters are in the word.
+This Java program prompts the user to input a word and two letters from that word. It then performs various operations on the input, including finding the positions of the entered letters in the word, checking if the first letter comes before the second, calculating the sum of their positions, determining the length of the word, and outputting a character based on the sum and length conditions.
